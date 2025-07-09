@@ -4,3 +4,4 @@ This project develops a machine learning model to predict Vitamin D deficiency l
 
 Multiple machine learning models—Random Forest, XGBoost, AdaBoost, and a Neural Network—were trained and compared, with the XGBoost Classifier selected for its superior accuracy in classifying Vitamin D deficiency levels. The Jupyter notebook (VitaminD.ipynb) implements the entire pipeline, including data preprocessing, visualization, model training, and evaluation. Visualizations like confusion matrices and performance metrics (e.g., accuracy, precision) are included to assess the model. The project is hosted on GitHub, providing a reproducible framework for predicting Vitamin D deficiency using clinical data.
 
+                 
